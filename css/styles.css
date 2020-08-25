@@ -28,7 +28,7 @@ h3{
     line-height: 0.5;
 }
 .middle-container{
-    margin:100px
+    margin:100px;
 }
 .bottom-container{
     background-color: #66BFBF;
@@ -94,6 +94,7 @@ hr{
     border-width: 8px;
     width: 80px;
     color: #EAF6F6;
+    margin: 100px auto;
 }
 .contact-message{
     width: 40%;
